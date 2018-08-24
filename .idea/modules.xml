@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/51See_NVR_Client/51See_NVR_Client.iml" filepath="$PROJECT_DIR$/51See_NVR_Client/51See_NVR_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InitActivity/InitActivity.iml" filepath="$PROJECT_DIR$/InitActivity/InitActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eclipseW1.iml" filepath="$PROJECT_DIR$/eclipseW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ripplelayout-master/ripplelayout-master.iml" filepath="$PROJECT_DIR$/ripplelayout-master/ripplelayout-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu_library/slidingmenu_library.iml" filepath="$PROJECT_DIR$/slidingmenu_library/slidingmenu_library.iml" />
+    </modules>
+  </component>
+</project>

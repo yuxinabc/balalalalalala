@@ -1,0 +1,531 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:2:1-310:12
+INJECTED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:2:1-310:12
+INJECTED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:2:1-310:12
+MERGED from [:InitActivity] E:\eclipseW1\InitActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:ripplelayout-master] E:\eclipseW1\ripplelayout-master\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [:slidingmenu_library] E:\eclipseW1\slidingmenu_library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\d8da882aa984d608d3566027bd1594e4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a1d4d02a7a5c7153b44d924f4618d5e7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\88b97ee1f4fd0ca438ff42b558aec146\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\8e454f9f33584a61287f0fad6f67bd4d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\7a2edc9ec257c55ae15470ceb9155f6b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\6134e87b7cf430dce84046a478658711\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\7d0cae169c763de25410889a16f1e004\AndroidManifest.xml:17:1-27:12
+INJECTED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:2:1-310:12
+INJECTED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:2:1-310:12
+	package
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:3:5-32
+	android:versionName
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:5:5-32
+		INJECTED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml
+		INJECTED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:4:5-29
+		INJECTED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml
+		INJECTED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml
+uses-sdk
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:7:5-9:41
+MERGED from [:ripplelayout-master] E:\eclipseW1\ripplelayout-master\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:ripplelayout-master] E:\eclipseW1\ripplelayout-master\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:slidingmenu_library] E:\eclipseW1\slidingmenu_library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:slidingmenu_library] E:\eclipseW1\slidingmenu_library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\d8da882aa984d608d3566027bd1594e4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\d8da882aa984d608d3566027bd1594e4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a1d4d02a7a5c7153b44d924f4618d5e7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a1d4d02a7a5c7153b44d924f4618d5e7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\88b97ee1f4fd0ca438ff42b558aec146\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\88b97ee1f4fd0ca438ff42b558aec146\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\8e454f9f33584a61287f0fad6f67bd4d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\8e454f9f33584a61287f0fad6f67bd4d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\7a2edc9ec257c55ae15470ceb9155f6b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\7a2edc9ec257c55ae15470ceb9155f6b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\6134e87b7cf430dce84046a478658711\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\6134e87b7cf430dce84046a478658711\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\7d0cae169c763de25410889a16f1e004\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\7d0cae169c763de25410889a16f1e004\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a1d4d02a7a5c7153b44d924f4618d5e7\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:11:5-68
+MERGED from [:InitActivity] E:\eclipseW1\InitActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-68
+MERGED from [:InitActivity] E:\eclipseW1\InitActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.INTERNET
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:12:5-67
+MERGED from [:InitActivity] E:\eclipseW1\InitActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-67
+MERGED from [:InitActivity] E:\eclipseW1\InitActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:13:5-79
+MERGED from [:InitActivity] E:\eclipseW1\InitActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-79
+MERGED from [:InitActivity] E:\eclipseW1\InitActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:15:5-84
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:15:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:17:22-68
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.CAMERA
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:19:22-62
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:20:5-73
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:20:22-70
+uses-feature#android.hardware.camera
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:22:5-60
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:22:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:23:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:25:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:26:22-66
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:28:5-85
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:28:22-82
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:29:5-75
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:29:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:30:5-68
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:30:22-65
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:31:5-85
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:31:22-82
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:32:5-68
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:32:22-65
+uses-permission#android.permission.LOCATION_HARDWARE
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:33:5-34:23
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:33:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:35:5-36:23
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:35:22-86
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:37:3-38:23
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:37:20-76
+application
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:39:5-308:19
+MERGED from [:InitActivity] E:\eclipseW1\InitActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-17:19
+MERGED from [:InitActivity] E:\eclipseW1\InitActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-17:19
+MERGED from [:ripplelayout-master] E:\eclipseW1\ripplelayout-master\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-14:19
+MERGED from [:ripplelayout-master] E:\eclipseW1\ripplelayout-master\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\d8da882aa984d608d3566027bd1594e4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\d8da882aa984d608d3566027bd1594e4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a1d4d02a7a5c7153b44d924f4618d5e7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\a1d4d02a7a5c7153b44d924f4618d5e7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\88b97ee1f4fd0ca438ff42b558aec146\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\88b97ee1f4fd0ca438ff42b558aec146\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\8e454f9f33584a61287f0fad6f67bd4d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\8e454f9f33584a61287f0fad6f67bd4d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\7a2edc9ec257c55ae15470ceb9155f6b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\7a2edc9ec257c55ae15470ceb9155f6b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\6134e87b7cf430dce84046a478658711\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\6134e87b7cf430dce84046a478658711\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\7d0cae169c763de25410889a16f1e004\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\snt1231\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\7d0cae169c763de25410889a16f1e004\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:43:9-41
+	android:allowBackup
+		ADDED from [:ripplelayout-master] E:\eclipseW1\ripplelayout-master\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:41:9-42
+	android:theme
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:42:9-44
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:40:9-54
+activity#io.vov.vitamio.activity.InitActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:44:9-48:63
+MERGED from [:InitActivity] E:\eclipseW1\InitActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-16:63
+MERGED from [:InitActivity] E:\eclipseW1\InitActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-16:63
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:47:13-43
+	android:windowSoftInputMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:48:13-60
+	android:configChanges
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:46:13-113
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:45:13-64
+activity#com.my51c.see51.ui.MainActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:49:9-60:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:51:13-45
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:52:13-42
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:50:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:58:27-74
+activity#com.my51c.see51.ui.PlayerActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:62:9-69:20
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:65:13-42
+	android:windowSoftInputMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:68:13-65
+	android:permission
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:66:13-75
+	android:configChanges
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:64:13-74
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:63:13-61
+activity#com.my51c.see51.ui.FourPlayerActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:70:9-77:20
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:73:13-42
+	android:windowSoftInputMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:76:13-69
+	android:permission
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:74:13-75
+	android:configChanges
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:72:13-74
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:71:13-65
+activity#com.my51c.see51.guide.GuidSmartId
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:78:9-82:20
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:79:13-61
+activity#com.my51c.see51.guide.GuidAddByWifi
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:83:9-86:20
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:84:13-63
+activity#com.my51c.see51.ui.LocalSettingActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:87:9-91:20
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:89:13-42
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:88:13-67
+activity#com.my51c.see51.ui.ActionAlarmActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:92:9-96:20
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:94:13-44
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:93:13-66
+activity#com.my51c.see51.ui.HumitureAlarmActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:97:9-100:20
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:99:13-44
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:98:13-68
+activity#com.my51c.see51.ui.SetFragment
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:101:9-104:20
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:103:13-44
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:102:13-58
+activity#com.my51c.see51.guide.Guide
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:105:9-109:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:108:13-49
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:107:13-44
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:106:13-55
+activity#com.my51c.see51.guide.Login
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:110:9-114:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:113:13-49
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:111:13-55
+activity#com.my51c.see51.guide.PlatformActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:115:9-120:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:118:13-49
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:117:13-44
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:116:13-66
+activity#com.my51c.see51.guide.DeviceIdActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:121:9-127:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:124:13-49
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:123:13-44
+	android:windowSoftInputMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:126:13-60
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:122:13-66
+activity#com.my51c.see51.guide.GuideSetActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:128:9-134:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:131:13-49
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:130:13-44
+	android:windowSoftInputMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:133:13-60
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:129:13-66
+activity#com.my51c.see51.guide.DimensionActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:135:9-141:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:139:13-49
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:138:13-44
+	android:windowSoftInputMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:140:13-60
+	android:configChanges
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:137:13-63
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:136:13-67
+activity#com.my51c.see51.ui.DeviceInfoActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:142:9-146:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:144:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:143:13-65
+activity#com.my51c.see51.ui.RFDeviceInfoActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:147:9-151:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:149:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:148:13-67
+activity#com.my51c.see51.guide.GuideNetTypeActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:152:9-155:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:154:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:153:13-70
+activity#com.my51c.see51.guide.GuidePrepareActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:156:9-160:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:158:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:157:13-70
+activity#com.my51c.see51.guide.CustWifiDialog
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:161:9-165:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:163:13-49
+	android:theme
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:164:13-51
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:162:13-64
+activity#com.my51c.see51.guide.GuideSmartWifi
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:166:9-170:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:168:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:167:13-64
+activity#com.my51c.see51.guide.GuideSmartSound
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:171:9-175:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:173:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:172:13-65
+activity#com.my51c.see51.ui.SDRecordFolderActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:176:9-180:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:178:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:177:13-69
+activity#com.my51c.see51.ui.SDRecordFileActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:181:9-185:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:183:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:182:13-67
+activity#com.my51c.see51.ui.SDCalendarActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:186:9-190:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:188:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:187:13-65
+activity#com.my51c.see51.ui.CloudRecordActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:191:9-195:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:193:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:192:13-66
+activity#com.my51c.see51.ui.RfDeviceAddActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:196:9-201:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:199:13-49
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:198:13-44
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:197:13-66
+activity#com.my51c.see51.ui.AboutActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:202:9-207:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:205:13-49
+	android:launchMode
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:204:13-44
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:203:13-60
+activity#com.my51c.see51.ui.BLPDetailActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:208:9-211:20
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:209:13-64
+activity#org.achartengine.GraphicalActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:222:9-71
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:222:19-68
+activity#com.my51c.see51.GeneratedChartDemo
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:223:9-71
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:223:19-68
+activity#com.my51c.see51.ui.LocalFileAcy
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:224:9-228:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:226:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:225:13-59
+activity#com.my51c.see51.ui.LocalPicVideoAcy
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:229:9-233:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:231:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:230:13-63
+activity#com.my51c.see51.ui.LocalDevListAcy
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:234:9-238:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:236:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:235:13-62
+activity#com.my51c.see51.ui.GeneralInfoAcy
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:239:9-243:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:241:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:240:13-61
+activity#com.my51c.see51.ui.WiredSettingAcy
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:244:9-248:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:246:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:245:13-62
+activity#com.my51c.see51.ui.WirelessSettingAcy
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:249:9-253:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:251:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:250:13-65
+activity#com.my51c.see51.ui.Net3GSettingAcy
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:254:9-258:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:256:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:255:13-62
+activity#com.my51c.see51.ui.AVSettingAcy
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:259:9-263:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:261:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:260:13-59
+activity#com.my51c.see51.ui.AlarmCloudRecordAcy
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:264:9-268:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:266:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:265:13-66
+activity#com.my51c.see51.ui.PlayAcy
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:269:9-274:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:272:13-50
+	android:configChanges
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:271:13-83
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:270:13-54
+service#com.baidu.location.f
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:276:9-280:19
+	android:process
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:279:13-38
+	android:enabled
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:278:13-35
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:277:13-48
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:282:9-284:56
+	android:value
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:284:13-53
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:283:13-52
+activity#com.my51c.see51.map.CameraLocation
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:286:9-290:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:288:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:287:13-62
+activity#com.my51c.see51.map.MapAcy
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:291:9-292:20
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:291:19-60
+activity#com.my51c.see51.ui.SDRecordNVRActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:293:10-297:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:295:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:294:13-66
+activity#com.my51c.see51.ui.PlanOfRecordActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:298:9-302:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:301:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:299:13-67
+activity#com.my51c.see51.ui.NewPlanOfRecordActivity
+ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:303:9-307:20
+	android:screenOrientation
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:306:13-49
+	android:name
+		ADDED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:304:13-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\eclipseW1\51See_NVR_Client\AndroidManifest.xml:2:1-310:12 reason: io.vov.vitamio requested WRITE_EXTERNAL_STORAGE

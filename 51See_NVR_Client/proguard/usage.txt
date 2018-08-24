@@ -1,0 +1,1384 @@
+android.support.v13.app.FragmentCompat:
+    25:45:public FragmentCompat()
+android.support.v13.app.FragmentCompatICS:
+    21:21:FragmentCompatICS()
+android.support.v13.app.FragmentCompatICSMR1:
+    21:21:FragmentCompatICSMR1()
+com.actionbarsherlock.internal.nineoldandroids.animation.AnimatorSet$Dependency:
+    static final int WITH
+    static final int AFTER
+com.actionbarsherlock.internal.view.menu.ActionMenuPresenter$HasPermanentMenuKey:
+    128:128:private ActionMenuPresenter$HasPermanentMenuKey()
+com.actionbarsherlock.internal.widget.IcsAdapterView$AdapterDataSetObserver:
+    807:808:public void clearSavedState()
+com.actionbarsherlock.internal.widget.IcsView
+com.actionbarsherlock.view.MenuInflater$MenuState:
+    private static final int defaultGroupId
+    private static final int defaultItemId
+    private static final int defaultItemCategory
+    private static final int defaultItemOrder
+    private static final int defaultItemCheckable
+    private static final boolean defaultItemChecked
+    private static final boolean defaultItemVisible
+    private static final boolean defaultItemEnabled
+com.actionbarsherlock.widget.ActivityChooserModel:
+    private static final boolean DEBUG
+    private static final java.lang.String TAG_HISTORICAL_RECORDS
+    private static final java.lang.String TAG_HISTORICAL_RECORD
+    private static final java.lang.String ATTRIBUTE_ACTIVITY
+    private static final java.lang.String ATTRIBUTE_TIME
+    private static final java.lang.String ATTRIBUTE_WEIGHT
+    public static final java.lang.String DEFAULT_HISTORY_FILE_NAME
+    public static final int DEFAULT_HISTORY_MAX_LENGTH
+    private static final int DEFAULT_ACTIVITY_INFLATION
+    private static final float DEFAULT_HISTORICAL_RECORD_WEIGHT
+    private static final java.lang.String HISTORY_FILE_EXTENSION
+    private static final int INVALID_INDEX
+    387:387:public android.content.Intent getIntent()
+    599:606:public void setActivitySorter(com.actionbarsherlock.widget.ActivityChooserModel$ActivitySorter)
+    638:646:public void setHistoryMaxSize(int)
+    654:654:public int getHistoryMaxSize()
+com.actionbarsherlock.widget.ActivityChooserModel$DefaultSorter:
+    private static final float WEIGHT_DECAY_COEFFICIENT
+com.actionbarsherlock.widget.ActivityChooserView:
+    450:450:public com.actionbarsherlock.widget.ActivityChooserModel getDataModel()
+    459:460:public void setOnDismissListener(android.widget.PopupWindow$OnDismissListener)
+    471:472:public void setInitialActivityCount(int)
+com.actionbarsherlock.widget.ActivityChooserView$ActivityChooserViewAdapter:
+    public static final int MAX_ACTIVITY_COUNT_UNLIMITED
+    public static final int MAX_ACTIVITY_COUNT_DEFAULT
+    private static final int ITEM_VIEW_TYPE_ACTIVITY
+    private static final int ITEM_VIEW_TYPE_FOOTER
+    private static final int ITEM_VIEW_TYPE_COUNT
+com.actionbarsherlock.widget.ActivityChooserView$SetActivated:
+    627:627:private ActivityChooserView$SetActivated()
+com.actionbarsherlock.widget.SuggestionsAdapter:
+    private static final boolean DBG
+    private static final java.lang.String LOG_TAG
+    private static final int QUERY_LIMIT
+    static final int REFINE_NONE
+    static final int REFINE_BY_ENTRY
+    static final int REFINE_ALL
+    static final int INVALID_INDEX
+    155:155:public int getQueryRefinement()
+    250:252:public void close()
+    690:701:private android.graphics.drawable.Drawable getActivityIconWithCache(android.content.ComponentName)
+    712:729:private android.graphics.drawable.Drawable getActivityIcon(android.content.ComponentName)
+com.baidu.lbsapi.auth.ErrorMessage:
+    ErrorMessage()
+com.baidu.location.b.j$a:
+    j$a()
+com.baidu.location.c.a:
+    static final int i
+    private static final int else
+    private static final int p
+    private static final int n
+    private static final int d
+    private static final int u
+    private static final int char
+    private static final int c
+    private static final double w
+    private static final double for
+    private static final int j
+    private static final int l
+    private static final int v
+    private static final int if
+    private static final int try
+    private static final int h
+    private static final int g
+    private static final int f
+    private static final int e
+    static final int s
+    void do()
+com.baidu.location.c.a$b:
+    private static final int dm
+    private static final int dz
+    private static final java.lang.String dq
+    private static final java.lang.String dA
+    private static final java.lang.String dE
+    private static final java.lang.String dx
+    private static final int dw
+    private static final long dy
+    private static final long dt
+com.baidu.location.c.c:
+    private static final java.lang.String R
+    private static final java.lang.String Z
+    private static final java.lang.String U
+    private static final java.lang.String M
+    private static final java.lang.String Y
+    private static final java.lang.String A
+    private static final java.lang.String J
+    private static final java.lang.String aa
+    private static final java.lang.String I
+    private static final java.lang.String K
+    private static final java.lang.String S
+    private static final java.lang.String T
+    private static final java.lang.String X
+    private static final java.lang.String N
+    private static final java.lang.String W
+    private static final java.lang.String F
+    private static final java.lang.String E
+    private static final java.lang.String L
+    private static final java.lang.String Q
+    private static final java.lang.String z
+    private static final java.lang.String C
+    private static final java.lang.String B
+    private static final java.lang.String P
+    private static final java.lang.String y
+    private static final java.lang.String V
+    private static final java.lang.String G
+    private static final java.lang.String O
+    private c()
+com.baidu.location.c.c$a:
+    private static final java.lang.String a
+    private static final java.lang.String case
+com.baidu.location.c.e:
+    private static final java.lang.String au
+com.baidu.location.c.e$a:
+    private static final java.lang.String ee
+    private static final java.lang.String dO
+    private static final java.lang.String dP
+    private static final java.lang.String ef
+    private static final java.lang.String dX
+    private static final java.lang.String dI
+    private static final java.lang.String d7
+    private static final java.lang.String dS
+    private static final java.lang.String dT
+    private static final java.lang.String d1
+    private static final java.lang.String eb
+    private static final java.lang.String d4
+    private static final java.lang.String dZ
+    private static final java.lang.String d6
+    private static final java.lang.String dL
+    private static final java.lang.String d8
+    private static final java.lang.String dK
+    private static final java.lang.String ec
+    private static final java.lang.String d0
+    private static final java.lang.String dR
+    private static final java.lang.String d5
+    private static final java.lang.String dH
+    private static final java.lang.String dV
+    private static final java.lang.String d3
+    private static final java.lang.String d2
+    private static final java.lang.String ed
+    private static final int dQ
+    private static final int dY
+    private static final long dW
+com.baidu.location.c.f:
+    static final java.lang.String aV
+    static final int a1
+    static final int a0
+    private static final double a2
+    private static final double a5
+    private static final double a3
+    private static final double a6
+    private static final java.lang.String aZ
+com.baidu.location.c.f$b:
+    private static final int byte
+    private static final java.lang.String new
+com.baidu.location.c.g:
+    private static final int bd
+    private static final int bc
+com.baidu.location.c.g$a:
+    private static final int et
+    private static final java.lang.String eu
+    private static final java.lang.String el
+    private static final java.lang.String es
+    private static final java.lang.String ej
+    private static final int eq
+    private static final int eo
+    private static final long ei
+com.baidu.location.e.g
+com.baidu.location.f.a.b$a:
+    private static final java.lang.String do
+com.baidu.location.g.a:
+    public java.lang.String cx()
+com.baidu.mapapi.clusterutil.clustering.view.DefaultClusterRenderer$MarkerModifier:
+    private static final int BLANK
+com.baidu.mapapi.clusterutil.clustering.view.DefaultClusterRenderer$ViewModifier:
+    private static final int RUN_TASK
+    private static final int TASK_FINISHED
+com.google.zxing.BarcodeFormat:
+    85:85:public java.lang.String getName()
+com.google.zxing.BinaryBitmap:
+    93:93:public boolean isCropSupported()
+    107:108:public com.google.zxing.BinaryBitmap crop(int,int,int,int)
+com.google.zxing.EncodeHintType
+com.google.zxing.MultiFormatReader:
+    50:51:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.MultiFormatWriter
+com.google.zxing.Reader:
+    public abstract com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.Result:
+    70:70:public byte[] getRawBytes()
+    132:132:public long getTimestamp()
+com.google.zxing.ResultMetadataType:
+    91:91:public java.lang.String getName()
+    99:106:public static com.google.zxing.ResultMetadataType valueOf(java.lang.String)
+com.google.zxing.Writer
+com.google.zxing.WriterException
+com.google.zxing.client.result.AbstractDoCoMoResultParser
+com.google.zxing.client.result.AddressBookAUResultParser
+com.google.zxing.client.result.AddressBookDoCoMoResultParser
+com.google.zxing.client.result.AddressBookParsedResult
+com.google.zxing.client.result.BizcardResultParser
+com.google.zxing.client.result.BookmarkDoCoMoResultParser
+com.google.zxing.client.result.CalendarParsedResult
+com.google.zxing.client.result.EmailAddressParsedResult
+com.google.zxing.client.result.EmailAddressResultParser
+com.google.zxing.client.result.EmailDoCoMoResultParser
+com.google.zxing.client.result.ExpandedProductParsedResult
+com.google.zxing.client.result.ExpandedProductResultParser
+com.google.zxing.client.result.GeoParsedResult
+com.google.zxing.client.result.GeoResultParser
+com.google.zxing.client.result.ISBNParsedResult
+com.google.zxing.client.result.ISBNResultParser
+com.google.zxing.client.result.ParsedResult
+com.google.zxing.client.result.ParsedResultType
+com.google.zxing.client.result.ProductParsedResult
+com.google.zxing.client.result.ProductResultParser
+com.google.zxing.client.result.ResultParser
+com.google.zxing.client.result.SMSMMSResultParser
+com.google.zxing.client.result.SMSParsedResult
+com.google.zxing.client.result.SMSTOMMSTOResultParser
+com.google.zxing.client.result.TelParsedResult
+com.google.zxing.client.result.TelResultParser
+com.google.zxing.client.result.TextParsedResult
+com.google.zxing.client.result.URIParsedResult
+com.google.zxing.client.result.URIResultParser
+com.google.zxing.client.result.URLTOResultParser
+com.google.zxing.client.result.VCardResultParser
+com.google.zxing.client.result.VEventResultParser
+com.google.zxing.client.result.WifiParsedResult
+com.google.zxing.client.result.WifiResultParser
+com.google.zxing.client.result.optional.AbstractNDEFResultParser
+com.google.zxing.client.result.optional.NDEFRecord
+com.google.zxing.client.result.optional.NDEFSmartPosterParsedResult
+com.google.zxing.client.result.optional.NDEFSmartPosterResultParser
+com.google.zxing.client.result.optional.NDEFTextResultParser
+com.google.zxing.client.result.optional.NDEFURIResultParser
+com.google.zxing.common.BitArray:
+    48:48:public int getSizeInBytes()
+    52:57:private void ensureCapacity(int)
+    82:83:public void flip(int)
+    93:94:public void setBulk(int,int)
+    148:153:public void appendBit(boolean)
+    161:168:public void appendBits(int,int)
+    171:176:public void appendBitArray(com.google.zxing.common.BitArray)
+    179:187:public void xor(com.google.zxing.common.BitArray)
+    198:208:public void toBytes(int,byte[],int,int)
+    215:215:public int[] getBitArray()
+com.google.zxing.common.BitMatrix:
+    95:99:public void clear()
+    138:145:public com.google.zxing.common.BitArray getRow(int,com.google.zxing.common.BitArray)
+com.google.zxing.common.CharacterSetECI:
+    104:107:public static com.google.zxing.common.CharacterSetECI getCharacterSetECIByName(java.lang.String)
+com.google.zxing.common.Collections:
+    29:30:private Collections()
+com.google.zxing.common.ECI:
+    34:34:public int getValue()
+    43:49:public static com.google.zxing.common.ECI getECIByValue(int)
+com.google.zxing.common.GlobalHistogramBinarizer:
+    private static final int LUMINANCE_BITS
+    private static final int LUMINANCE_SHIFT
+    private static final int LUMINANCE_BUCKETS
+com.google.zxing.common.GridSampler:
+    48:52:public static void setGridSampler(com.google.zxing.common.GridSampler)
+com.google.zxing.common.HybridBinarizer:
+    private static final int MINIMUM_DIMENSION
+com.google.zxing.common.PerspectiveTransform:
+    80:88:public void transformPoints(float[],float[])
+com.google.zxing.common.StringUtils:
+    public static final java.lang.String SHIFT_JIS
+    private static final java.lang.String EUC_JP
+    private static final java.lang.String UTF8
+    private static final java.lang.String ISO88591
+    40:40:private StringUtils()
+com.google.zxing.common.detector.MonochromeRectangleDetector
+com.google.zxing.common.detector.WhiteRectangleDetector:
+    private static final int INIT_SIZE
+    private static final int CORR
+com.google.zxing.common.reedsolomon.GF256Poly:
+    70:70:int[] getCoefficients()
+    201:223:com.google.zxing.common.reedsolomon.GF256Poly[] divide(com.google.zxing.common.reedsolomon.GF256Poly)
+com.google.zxing.common.reedsolomon.ReedSolomonEncoder
+com.google.zxing.datamatrix.DataMatrixReader:
+    57:57:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.datamatrix.decoder.DecodedBitStreamParser:
+    private static final int PAD_ENCODE
+    private static final int ASCII_ENCODE
+    private static final int C40_ENCODE
+    private static final int TEXT_ENCODE
+    private static final int ANSIX12_ENCODE
+    private static final int EDIFACT_ENCODE
+    private static final int BASE256_ENCODE
+    75:76:private DecodedBitStreamParser()
+com.google.zxing.datamatrix.decoder.Decoder:
+    51:60:public com.google.zxing.common.DecoderResult decode(boolean[][])
+com.google.zxing.multi.ByQuadrantReader
+com.google.zxing.multi.GenericMultipleBarcodeReader
+com.google.zxing.multi.MultipleBarcodeReader
+com.google.zxing.multi.qrcode.QRCodeMultiReader
+com.google.zxing.multi.qrcode.detector.MultiDetector
+com.google.zxing.multi.qrcode.detector.MultiFinderPatternFinder
+com.google.zxing.multi.qrcode.detector.MultiFinderPatternFinder$1
+com.google.zxing.multi.qrcode.detector.MultiFinderPatternFinder$ModuleSizeComparator
+com.google.zxing.oned.CodaBarReader:
+    private static final java.lang.String ALPHABET_STRING
+    private static final int minCharacterLength
+com.google.zxing.oned.Code128Reader:
+    private static final int MAX_AVG_VARIANCE
+    private static final int MAX_INDIVIDUAL_VARIANCE
+    private static final int CODE_SHIFT
+    private static final int CODE_CODE_C
+    private static final int CODE_CODE_B
+    private static final int CODE_CODE_A
+    private static final int CODE_FNC_1
+    private static final int CODE_FNC_2
+    private static final int CODE_FNC_3
+    private static final int CODE_FNC_4_A
+    private static final int CODE_FNC_4_B
+    private static final int CODE_START_A
+    private static final int CODE_START_B
+    private static final int CODE_START_C
+    private static final int CODE_STOP
+com.google.zxing.oned.Code128Writer
+com.google.zxing.oned.Code39Reader:
+    static final java.lang.String ALPHABET_STRING
+    89:92:public Code39Reader(boolean,boolean)
+com.google.zxing.oned.Code39Writer
+com.google.zxing.oned.Code93Reader:
+    private static final java.lang.String ALPHABET_STRING
+com.google.zxing.oned.EAN13Writer
+com.google.zxing.oned.EAN8Writer
+com.google.zxing.oned.ITFReader:
+    private static final int MAX_AVG_VARIANCE
+    private static final int MAX_INDIVIDUAL_VARIANCE
+    private static final int W
+    private static final int N
+com.google.zxing.oned.ITFWriter
+com.google.zxing.oned.OneDReader:
+    protected static final int INTEGER_MATH_SHIFT
+    protected static final int PATTERN_MATCH_RESULT_SCALE_FACTOR
+    47:47:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.oned.UPCAReader:
+    50:50:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.oned.UPCEANReader:
+    private static final int MAX_AVG_VARIANCE
+    private static final int MAX_INDIVIDUAL_VARIANCE
+com.google.zxing.oned.UPCEANWriter
+com.google.zxing.oned.rss.AbstractRSSReader:
+    private static final int MAX_AVG_VARIANCE
+    private static final int MAX_INDIVIDUAL_VARIANCE
+    private static final float MIN_FINDER_PATTERN_RATIO
+    private static final float MAX_FINDER_PATTERN_RATIO
+com.google.zxing.oned.rss.RSSUtils:
+    22:22:private RSSUtils()
+    25:61:static int[] getRSSwidths(int,int,int,int,boolean)
+    127:151:static int[] elements(int[],int,int)
+com.google.zxing.oned.rss.expanded.BitArrayBuilder:
+    39:40:private BitArrayBuilder()
+com.google.zxing.oned.rss.expanded.RSSExpandedReader:
+    private static final int FINDER_PAT_A
+    private static final int FINDER_PAT_B
+    private static final int FINDER_PAT_C
+    private static final int FINDER_PAT_D
+    private static final int FINDER_PAT_E
+    private static final int FINDER_PAT_F
+    private static final int MAX_PAIRS
+com.google.zxing.oned.rss.expanded.decoders.AI01392xDecoder:
+    private static final int headerSize
+    private static final int lastDigitSize
+com.google.zxing.oned.rss.expanded.decoders.AI01393xDecoder:
+    private static final int headerSize
+    private static final int lastDigitSize
+    private static final int firstThreeDigitsSize
+com.google.zxing.oned.rss.expanded.decoders.AI013x0x1xDecoder:
+    private static final int headerSize
+    private static final int weightSize
+    private static final int dateSize
+com.google.zxing.oned.rss.expanded.decoders.AI013x0xDecoder:
+    private static final int headerSize
+    private static final int weightSize
+com.google.zxing.oned.rss.expanded.decoders.AI01AndOtherAIs:
+    private static final int HEADER_SIZE
+com.google.zxing.oned.rss.expanded.decoders.AI01decoder:
+    protected static final int gtinSize
+com.google.zxing.oned.rss.expanded.decoders.AnyAIDecoder:
+    private static final int HEADER_SIZE
+com.google.zxing.oned.rss.expanded.decoders.CurrentParsingState:
+    private static final int NUMERIC
+    private static final int ALPHA
+    private static final int ISO_IEC_646
+    51:51:boolean isNumeric()
+com.google.zxing.oned.rss.expanded.decoders.DecodedChar:
+    static final char FNC1
+com.google.zxing.oned.rss.expanded.decoders.DecodedNumeric:
+    static final int FNC1
+    64:64:int getValue()
+    76:76:boolean isAnyFNC1()
+com.google.zxing.oned.rss.expanded.decoders.FieldParser:
+    189:190:private FieldParser()
+com.google.zxing.pdf417.PDF417Reader:
+    55:55:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.pdf417.decoder.BitMatrixParser:
+    private static final int MAX_ROW_DIFFERENCE
+    private static final int MAX_ROWS
+    private static final int MAX_CW_CAPACITY
+    private static final int MODULES_IN_SYMBOL
+com.google.zxing.pdf417.decoder.DecodedBitStreamParser:
+    private static final int TEXT_COMPACTION_MODE_LATCH
+    private static final int BYTE_COMPACTION_MODE_LATCH
+    private static final int NUMERIC_COMPACTION_MODE_LATCH
+    private static final int BYTE_COMPACTION_MODE_LATCH_6
+    private static final int BEGIN_MACRO_PDF417_CONTROL_BLOCK
+    private static final int BEGIN_MACRO_PDF417_OPTIONAL_FIELD
+    private static final int MACRO_PDF417_TERMINATOR
+    private static final int MODE_SHIFT_TO_BYTE_COMPACTION_MODE
+    private static final int MAX_NUMERIC_CODEWORDS
+    private static final int ALPHA
+    private static final int LOWER
+    private static final int MIXED
+    private static final int PUNCT
+    private static final int PUNCT_SHIFT
+    private static final int PL
+    private static final int LL
+    private static final int AS
+    private static final int ML
+    private static final int AL
+    private static final int PS
+    private static final int PAL
+    81:82:private DecodedBitStreamParser()
+com.google.zxing.pdf417.decoder.Decoder:
+    private static final int MAX_ERRORS
+    private static final int MAX_EC_CODEWORDS
+    52:61:public com.google.zxing.common.DecoderResult decode(boolean[][])
+com.google.zxing.pdf417.detector.Detector:
+    private static final int MAX_AVG_VARIANCE
+    private static final int MAX_INDIVIDUAL_VARIANCE
+    private static final int SKEW_THRESHOLD
+com.google.zxing.qrcode.QRCodeReader:
+    49:49:protected com.google.zxing.qrcode.decoder.Decoder getDecoder()
+    61:61:public com.google.zxing.Result decode(com.google.zxing.BinaryBitmap)
+com.google.zxing.qrcode.QRCodeWriter
+com.google.zxing.qrcode.decoder.DecodedBitStreamParser:
+    49:50:private DecodedBitStreamParser()
+com.google.zxing.qrcode.decoder.Decoder:
+    46:46:public com.google.zxing.common.DecoderResult decode(boolean[][])
+    61:70:public com.google.zxing.common.DecoderResult decode(boolean[][],java.util.Hashtable)
+    74:74:public com.google.zxing.common.DecoderResult decode(com.google.zxing.common.BitMatrix)
+com.google.zxing.qrcode.decoder.ErrorCorrectionLevel:
+    63:63:public int getBits()
+    67:67:public java.lang.String getName()
+com.google.zxing.qrcode.decoder.FormatInformation:
+    private static final int FORMAT_INFO_MASK_QR
+com.google.zxing.qrcode.decoder.Mode:
+    101:101:public int getBits()
+    105:105:public java.lang.String getName()
+com.google.zxing.qrcode.decoder.Version$ECBlocks:
+    207:211:public int getNumBlocks()
+    215:215:public int getTotalECCodewords()
+com.google.zxing.qrcode.detector.Detector:
+    48:48:protected com.google.zxing.common.BitMatrix getImage()
+    52:52:protected com.google.zxing.ResultPointCallback getResultPointCallback()
+    62:62:public com.google.zxing.common.DetectorResult detect()
+com.google.zxing.qrcode.detector.FinderPatternFinder:
+    private static final int CENTER_QUORUM
+    protected static final int MIN_SKIP
+    protected static final int MAX_MODULES
+    private static final int INTEGER_MATH_SHIFT
+    57:58:public FinderPatternFinder(com.google.zxing.common.BitMatrix)
+    68:68:protected com.google.zxing.common.BitMatrix getImage()
+    72:72:protected java.util.Vector getPossibleCenters()
+com.google.zxing.qrcode.encoder.BlockPair
+com.google.zxing.qrcode.encoder.ByteMatrix
+com.google.zxing.qrcode.encoder.Encoder
+com.google.zxing.qrcode.encoder.MaskUtil
+com.google.zxing.qrcode.encoder.MatrixUtil
+com.google.zxing.qrcode.encoder.QRCode
+com.jeremyfeinstein.slidingmenu.lib.SlidingMenu$1:
+    public static final int POSITION_OPEN
+    public static final int POSITION_CLOSE
+    public static final int POSITION_SECONDARY_OPEN
+com.method.wifilist.ConnectWifi:
+    97:103:private android.net.wifi.WifiConfiguration isExsits(java.lang.String)
+com.method.wifilist.WifiAdmin:
+    private java.util.List mWifiList
+    private java.util.List mWifiConfiguration
+    android.net.wifi.WifiManager$WifiLock mWifiLock
+    49:49:public int checkState()
+    54:55:public void creatWifiLock()
+    59:60:public void acquireWifiLock()
+    65:68:public void releaseWifiLock()
+    72:72:public java.util.List getConfiguration()
+    78:83:public void connectConfiguration(int)
+    86:91:public void startScan()
+    95:95:public java.util.List getWifiList()
+    100:108:public java.lang.StringBuilder lookUpScan(java.util.List)
+    113:113:public java.lang.String getMacAddress()
+    118:118:public java.lang.String getBSSID()
+    127:127:public int getIPAddress()
+    137:137:public java.lang.String getWifiInfo()
+    146:150:public void addNetwork(android.net.wifi.WifiConfiguration)
+    154:156:public void disconnectWifi(int)
+com.method.wifilist.WifiConstant:
+    3:3:public WifiConstant()
+com.my51c.opengl.common.ESShader:
+    21:21:public ESShader()
+com.my51c.opengl.common.ESShapes
+com.my51c.opengl.common.ESTransform
+com.my51see.see51.BuildConfig
+com.my51see.see51.R:
+    10:10:public R()
+com.my51see.see51.R$anim
+com.my51see.see51.R$attr
+com.my51see.see51.R$bool
+com.my51see.see51.R$color
+com.my51see.see51.R$dimen
+com.my51see.see51.R$drawable
+com.my51see.see51.R$id
+com.my51see.see51.R$integer
+com.my51see.see51.R$layout
+com.my51see.see51.R$menu
+com.my51see.see51.R$raw
+com.my51see.see51.R$string
+com.my51see.see51.R$style
+com.my51see.see51.R$styleable:
+    3470:3470:public R$styleable()
+com.nineoldandroids.animation.Animator:
+    public abstract long getStartDelay()
+    public abstract void setStartDelay(long)
+    public abstract long getDuration()
+    183:187:public void removeAllListeners()
+    217:217:public void setupStartValues()
+    229:229:public void setupEndValues()
+    240:240:public void setTarget(java.lang.Object)
+com.nineoldandroids.animation.AnimatorInflater
+com.nineoldandroids.animation.AnimatorSet:
+    125:132:public varargs void playTogether(com.nineoldandroids.animation.Animator[])
+    160:170:public varargs void playSequentially(com.nineoldandroids.animation.Animator[])
+    179:189:public void playSequentially(java.util.List)
+    200:204:public java.util.ArrayList getChildAnimations()
+    216:224:public void setTarget(java.lang.Object)
+    378:378:public long getStartDelay()
+    389:390:public void setStartDelay(long)
+    402:402:public long getDuration()
+    429:432:public void setupStartValues()
+    436:439:public void setupEndValues()
+com.nineoldandroids.animation.AnimatorSet$Builder:
+    1064:1072:public com.nineoldandroids.animation.AnimatorSet$Builder before(com.nineoldandroids.animation.Animator)
+    1084:1092:public com.nineoldandroids.animation.AnimatorSet$Builder after(com.nineoldandroids.animation.Animator)
+    1105:1108:public com.nineoldandroids.animation.AnimatorSet$Builder after(long)
+com.nineoldandroids.animation.AnimatorSet$Dependency:
+    static final int WITH
+    static final int AFTER
+com.nineoldandroids.animation.ArgbEvaluator
+com.nineoldandroids.animation.IntKeyframeSet
+com.nineoldandroids.animation.Keyframe:
+    76:76:public static com.nineoldandroids.animation.Keyframe ofInt(float,int)
+    92:92:public static com.nineoldandroids.animation.Keyframe ofInt(float)
+    140:140:public static com.nineoldandroids.animation.Keyframe ofObject(float,java.lang.Object)
+    156:156:public static com.nineoldandroids.animation.Keyframe ofObject(float)
+    201:202:public void setFraction(float)
+    232:232:public java.lang.Class getType()
+com.nineoldandroids.animation.Keyframe$IntKeyframe
+com.nineoldandroids.animation.Keyframe$ObjectKeyframe
+com.nineoldandroids.animation.KeyframeSet:
+    54:65:public static varargs com.nineoldandroids.animation.KeyframeSet ofInt(int[])
+    85:111:public static varargs com.nineoldandroids.animation.KeyframeSet ofKeyframe(com.nineoldandroids.animation.Keyframe[])
+    116:127:public static varargs com.nineoldandroids.animation.KeyframeSet ofObject(java.lang.Object[])
+com.nineoldandroids.animation.ObjectAnimator:
+    private static final boolean DBG
+    142:142:public java.lang.String getPropertyName()
+    173:176:private ObjectAnimator(java.lang.Object,com.nineoldandroids.util.Property)
+    193:195:public static varargs com.nineoldandroids.animation.ObjectAnimator ofInt(java.lang.Object,java.lang.String,int[])
+    211:213:public static varargs com.nineoldandroids.animation.ObjectAnimator ofInt(java.lang.Object,com.nineoldandroids.util.Property,int[])
+    250:252:public static varargs com.nineoldandroids.animation.ObjectAnimator ofFloat(java.lang.Object,com.nineoldandroids.util.Property,float[])
+    274:277:public static varargs com.nineoldandroids.animation.ObjectAnimator ofObject(java.lang.Object,java.lang.String,com.nineoldandroids.animation.TypeEvaluator,java.lang.Object[])
+    297:300:public static varargs com.nineoldandroids.animation.ObjectAnimator ofObject(java.lang.Object,com.nineoldandroids.util.Property,com.nineoldandroids.animation.TypeEvaluator,java.lang.Object[])
+    322:325:public static varargs com.nineoldandroids.animation.ObjectAnimator ofPropertyValuesHolder(java.lang.Object,com.nineoldandroids.animation.PropertyValuesHolder[])
+    330:341:public varargs void setIntValues(int[])
+    360:371:public varargs void setObjectValues(java.lang.Object[])
+    438:438:public java.lang.Object getTarget()
+    448:457:public void setTarget(java.lang.Object)
+    461:466:public void setupStartValues()
+    470:475:public void setupEndValues()
+com.nineoldandroids.animation.PreHoneycombCompat:
+    167:167:private PreHoneycombCompat()
+com.nineoldandroids.animation.PreHoneycombCompat$11:
+    123:124:public void setValue(android.view.View,int)
+    120:120:public bridge synthetic void setValue(java.lang.Object,int)
+com.nineoldandroids.animation.PreHoneycombCompat$12:
+    134:135:public void setValue(android.view.View,int)
+    131:131:public bridge synthetic void setValue(java.lang.Object,int)
+com.nineoldandroids.animation.PropertyValuesHolder:
+    154:154:public static varargs com.nineoldandroids.animation.PropertyValuesHolder ofInt(java.lang.String,int[])
+    165:165:public static varargs com.nineoldandroids.animation.PropertyValuesHolder ofInt(com.nineoldandroids.util.Property,int[])
+    204:207:public static varargs com.nineoldandroids.animation.PropertyValuesHolder ofObject(java.lang.String,com.nineoldandroids.animation.TypeEvaluator,java.lang.Object[])
+    224:227:public static varargs com.nineoldandroids.animation.PropertyValuesHolder ofObject(com.nineoldandroids.util.Property,com.nineoldandroids.animation.TypeEvaluator,java.lang.Object[])
+    250:260:public static varargs com.nineoldandroids.animation.PropertyValuesHolder ofKeyframe(java.lang.String,com.nineoldandroids.animation.Keyframe[])
+    281:291:public static varargs com.nineoldandroids.animation.PropertyValuesHolder ofKeyframe(com.nineoldandroids.util.Property,com.nineoldandroids.animation.Keyframe[])
+    309:311:public varargs void setIntValues(int[])
+    337:344:public varargs void setKeyframes(com.nineoldandroids.animation.Keyframe[])
+    360:362:public varargs void setObjectValues(java.lang.Object[])
+    551:565:private void setupValue(java.lang.Object,com.nineoldandroids.animation.Keyframe)
+    576:577:void setupStartValue(java.lang.Object)
+    588:589:void setupEndValue(java.lang.Object)
+    659:661:public void setEvaluator(com.nineoldandroids.animation.TypeEvaluator)
+com.nineoldandroids.animation.PropertyValuesHolder$FloatPropertyValuesHolder:
+    901:905:public PropertyValuesHolder$FloatPropertyValuesHolder(java.lang.String,com.nineoldandroids.animation.FloatKeyframeSet)
+    908:915:public PropertyValuesHolder$FloatPropertyValuesHolder(com.nineoldandroids.util.Property,com.nineoldandroids.animation.FloatKeyframeSet)
+com.nineoldandroids.animation.PropertyValuesHolder$IntPropertyValuesHolder
+com.nineoldandroids.animation.TimeAnimator
+com.nineoldandroids.animation.TimeAnimator$TimeListener
+com.nineoldandroids.animation.ValueAnimator:
+    private static final long DEFAULT_FRAME_DELAY
+    static final int ANIMATION_START
+    static final int ANIMATION_FRAME
+    static final int STOPPED
+    static final int RUNNING
+    static final int SEEKED
+    public static final int RESTART
+    public static final int REVERSE
+    public static final int INFINITE
+    298:300:public static varargs com.nineoldandroids.animation.ValueAnimator ofInt(int[])
+    329:331:public static varargs com.nineoldandroids.animation.ValueAnimator ofPropertyValuesHolder(com.nineoldandroids.animation.PropertyValuesHolder[])
+    352:355:public static varargs com.nineoldandroids.animation.ValueAnimator ofObject(com.nineoldandroids.animation.TypeEvaluator,java.lang.Object[])
+    373:384:public varargs void setIntValues(int[])
+    433:445:public varargs void setObjectValues(java.lang.Object[])
+    476:476:public com.nineoldandroids.animation.PropertyValuesHolder[] getValues()
+    524:524:public long getDuration()
+    692:692:public long getStartDelay()
+    715:715:public static long getFrameDelay()
+    728:729:public static void setFrameDelay(long)
+    744:748:public java.lang.Object getAnimatedValue()
+    762:767:public java.lang.Object getAnimatedValue(java.lang.String)
+    789:789:public int getRepeatCount()
+    809:809:public int getRepeatMode()
+    820:824:public void addUpdateListener(com.nineoldandroids.animation.ValueAnimator$AnimatorUpdateListener)
+    830:835:public void removeAllUpdateListeners()
+    844:851:public void removeUpdateListener(com.nineoldandroids.animation.ValueAnimator$AnimatorUpdateListener)
+    878:878:public android.view.animation.Interpolator getInterpolator()
+    898:901:public void setEvaluator(com.nineoldandroids.animation.TypeEvaluator)
+    1009:1018:public void reverse()
+    1153:1153:public float getAnimatedFraction()
+    1239:1239:public static int getCurrentAnimationsCount()
+    1249:1252:public static void clearAllAnimations()
+com.nineoldandroids.util.IntProperty:
+    public abstract void setValue(java.lang.Object,int)
+com.nineoldandroids.util.NoSuchPropertyException
+com.nineoldandroids.util.Property:
+    55:55:public static com.nineoldandroids.util.Property of(java.lang.Class,java.lang.Class,java.lang.String)
+    76:76:public boolean isReadOnly()
+    104:104:public java.lang.Class getType()
+com.nineoldandroids.util.ReflectiveProperty
+com.nineoldandroids.view.ViewHelper
+com.nineoldandroids.view.ViewHelper$Honeycomb
+com.nineoldandroids.view.ViewPropertyAnimator
+com.nineoldandroids.view.ViewPropertyAnimatorHC
+com.nineoldandroids.view.ViewPropertyAnimatorHC$1
+com.nineoldandroids.view.ViewPropertyAnimatorHC$AnimatorEventListener
+com.nineoldandroids.view.ViewPropertyAnimatorHC$NameValuesHolder
+com.nineoldandroids.view.ViewPropertyAnimatorHC$PropertyBundle
+com.nineoldandroids.view.ViewPropertyAnimatorICS
+com.nineoldandroids.view.ViewPropertyAnimatorICS$1
+com.nineoldandroids.view.ViewPropertyAnimatorPreHC
+com.nineoldandroids.view.ViewPropertyAnimatorPreHC$1
+com.nineoldandroids.view.ViewPropertyAnimatorPreHC$AnimatorEventListener
+com.nineoldandroids.view.ViewPropertyAnimatorPreHC$NameValuesHolder
+com.nineoldandroids.view.ViewPropertyAnimatorPreHC$PropertyBundle
+com.nineoldandroids.view.animation.AnimatorProxy:
+    163:167:public void setScrollX(int)
+    176:180:public void setScrollY(int)
+com.tutk.IOTC.AVAPIs:
+    public static final int TIME_DELAY_DELTA
+    public static final int TIME_DELAY_MIN
+    public static final int TIME_DELAY_MAX
+    public static final int TIME_DELAY_INITIAL
+    public static final int TIME_SPAN_LOSED
+    public static final int IOTYPE_INNER_SND_DATA_DELAY
+    public static final int API_ER_ANDROID_NULL
+    public static final int AV_ER_NoERROR
+    public static final int AV_ER_INVALID_ARG
+    public static final int AV_ER_BUFPARA_MAXSIZE_INSUFF
+    public static final int AV_ER_EXCEED_MAX_CHANNEL
+    public static final int AV_ER_MEM_INSUFF
+    public static final int AV_ER_FAIL_CREATE_THREAD
+    public static final int AV_ER_EXCEED_MAX_ALARM
+    public static final int AV_ER_EXCEED_MAX_SIZE
+    public static final int AV_ER_SERV_NO_RESPONSE
+    public static final int AV_ER_CLIENT_NO_AVLOGIN
+    public static final int AV_ER_WRONG_VIEWACCorPWD
+    public static final int AV_ER_INVALID_SID
+    public static final int AV_ER_TIMEOUT
+    public static final int AV_ER_DATA_NOREADY
+    public static final int AV_ER_INCOMPLETE_FRAME
+    public static final int AV_ER_LOSED_THIS_FRAME
+    public static final int AV_ER_SESSION_CLOSE_BY_REMOTE
+    public static final int AV_ER_REMOTE_TIMEOUT_DISCONNECT
+    public static final int AV_ER_SERVER_EXIT
+    public static final int AV_ER_CLIENT_EXIT
+    public static final int AV_ER_NOT_INITIALIZED
+    public static final int AV_ER_CLIENT_NOT_SUPPORT
+    public static final int AV_ER_SENDIOCTRL_ALREADY_CALLED
+    public static final int AV_ER_SENDIOCTRL_EXIT
+    22:22:public AVAPIs()
+    public static native int avGetAVApiVer()
+    public static native int avSendFrameData(int,byte[],int,byte[],int)
+    public static native void avClientExit(int,int)
+    public static native int avRecvFrameData(int,byte[],int,byte[],int,int[])
+    public static native int avCheckAudioBuf(int)
+    public static native void avClientSetMaxBufSize(int)
+com.tutk.IOTC.AVFrame:
+    public static final int FRAMEINFO_SIZE
+    public static final int MEDIA_CODEC_UNKNOWN
+    public static final int MEDIA_CODEC_VIDEO_MPEG4
+    public static final int MEDIA_CODEC_VIDEO_H263
+    public static final int MEDIA_CODEC_VIDEO_H264
+    public static final int MEDIA_CODEC_VIDEO_MJPEG
+    public static final int MEDIA_CODEC_AUDIO_ADPCM
+    public static final int MEDIA_CODEC_AUDIO_PCM
+    public static final int MEDIA_CODEC_AUDIO_SPEEX
+    public static final int MEDIA_CODEC_AUDIO_MP3
+    public static final int MEDIA_CODEC_AUDIO_G726
+    public static final int IPC_FRAME_FLAG_PBFRAME
+    public static final int IPC_FRAME_FLAG_IFRAME
+    public static final int IPC_FRAME_FLAG_MD
+    public static final int IPC_FRAME_FLAG_IO
+    public static final int AUDIO_SAMPLE_8K
+    public static final int AUDIO_SAMPLE_11K
+    public static final int AUDIO_SAMPLE_12K
+    public static final int AUDIO_SAMPLE_16K
+    public static final int AUDIO_SAMPLE_22K
+    public static final int AUDIO_SAMPLE_24K
+    public static final int AUDIO_SAMPLE_32K
+    public static final int AUDIO_SAMPLE_44K
+    public static final int AUDIO_SAMPLE_48K
+    public static final int AUDIO_DATABITS_8
+    public static final int AUDIO_DATABITS_16
+    public static final int AUDIO_CHANNEL_MONO
+    public static final int AUDIO_CHANNEL_STERO
+    public static final byte FRM_STATE_UNKOWN
+    public static final byte FRM_STATE_COMPLETE
+    public static final byte FRM_STATE_INCOMPLETE
+    public static final byte FRM_STATE_LOSED
+    109:151:public static int getSamplerate(byte)
+    164:164:public byte getCamIndex()
+    180:180:public int getDataSize()
+    184:184:public byte getFlags()
+    188:188:public byte getFrmState()
+    192:192:public long getFrmNo()
+    200:200:public byte getOnlineNum()
+    212:212:public int getVideoWidth()
+    216:216:public int getVideoHeight()
+com.tutk.IOTC.AVIOCTRLDEFs:
+    public static final int IOTYPE_USER_IPCAM_START
+    public static final int IOTYPE_USER_IPCAM_STOP
+    public static final int IOTYPE_USER_IPCAM_AUDIOSTART
+    public static final int IOTYPE_USER_IPCAM_AUDIOSTOP
+    public static final int IOTYPE_USER_IPCAM_SPEAKERSTART
+    public static final int IOTYPE_USER_IPCAM_SPEAKERSTOP
+    public static final int IOTYPE_USER_IPCAM_SETSTREAMCTRL_REQ
+    public static final int IOTYPE_USER_IPCAM_SETSTREAMCTRL_RESP
+    public static final int IOTYPE_USER_IPCAM_GETSTREAMCTRL_REQ
+    public static final int IOTYPE_USER_IPCAM_GETSTREAMCTRL_RESP
+    public static final int IOTYPE_USER_IPCAM_SETMOTIONDETECT_REQ
+    public static final int IOTYPE_USER_IPCAM_SETMOTIONDETECT_RESP
+    public static final int IOTYPE_USER_IPCAM_GETMOTIONDETECT_REQ
+    public static final int IOTYPE_USER_IPCAM_GETMOTIONDETECT_RESP
+    public static final int IOTYPE_USER_IPCAM_GETSUPPORTSTREAM_REQ
+    public static final int IOTYPE_USER_IPCAM_GETSUPPORTSTREAM_RESP
+    public static final int IOTYPE_USER_IPCAM_GETAUDIOOUTFORMAT_REQ
+    public static final int IOTYPE_USER_IPCAM_GETAUDIOOUTFORMAT_RESP
+    public static final int IOTYPE_USER_IPCAM_DEVINFO_REQ
+    public static final int IOTYPE_USER_IPCAM_DEVINFO_RESP
+    public static final int IOTYPE_USER_IPCAM_SETPASSWORD_REQ
+    public static final int IOTYPE_USER_IPCAM_SETPASSWORD_RESP
+    public static final int IOTYPE_USER_IPCAM_LISTWIFIAP_REQ
+    public static final int IOTYPE_USER_IPCAM_LISTWIFIAP_RESP
+    public static final int IOTYPE_USER_IPCAM_SETWIFI_REQ
+    public static final int IOTYPE_USER_IPCAM_SETWIFI_RESP
+    public static final int IOTYPE_USER_IPCAM_GETWIFI_REQ
+    public static final int IOTYPE_USER_IPCAM_GETWIFI_RESP
+    public static final int IOTYPE_USER_IPCAM_SETWIFI_REQ_2
+    public static final int IOTYPE_USER_IPCAM_GETWIFI_RESP_2
+    public static final int IOTYPE_USER_IPCAM_SETRECORD_REQ
+    public static final int IOTYPE_USER_IPCAM_SETRECORD_RESP
+    public static final int IOTYPE_USER_IPCAM_GETRECORD_REQ
+    public static final int IOTYPE_USER_IPCAM_GETRECORD_RESP
+    public static final int IOTYPE_USER_IPCAM_SETRCD_DURATION_REQ
+    public static final int IOTYPE_USER_IPCAM_SETRCD_DURATION_RESP
+    public static final int IOTYPE_USER_IPCAM_GETRCD_DURATION_REQ
+    public static final int IOTYPE_USER_IPCAM_GETRCD_DURATION_RESP
+    public static final int IOTYPE_USER_IPCAM_LISTEVENT_REQ
+    public static final int IOTYPE_USER_IPCAM_LISTEVENT_RESP
+    public static final int IOTYPE_USER_IPCAM_RECORD_PLAYCONTROL
+    public static final int IOTYPE_USER_IPCAM_RECORD_PLAYCONTROL_RESP
+    public static final int IOTYPE_USER_IPCAM_GET_EVENTCONFIG_REQ
+    public static final int IOTYPE_USER_IPCAM_GET_EVENTCONFIG_RESP
+    public static final int IOTYPE_USER_IPCAM_SET_EVENTCONFIG_REQ
+    public static final int IOTYPE_USER_IPCAM_SET_EVENTCONFIG_RESP
+    public static final int IOTYPE_USER_IPCAM_SET_ENVIRONMENT_REQ
+    public static final int IOTYPE_USER_IPCAM_SET_ENVIRONMENT_RESP
+    public static final int IOTYPE_USER_IPCAM_GET_ENVIRONMENT_REQ
+    public static final int IOTYPE_USER_IPCAM_GET_ENVIRONMENT_RESP
+    public static final int IOTYPE_USER_IPCAM_SET_VIDEOMODE_REQ
+    public static final int IOTYPE_USER_IPCAM_SET_VIDEOMODE_RESP
+    public static final int IOTYPE_USER_IPCAM_GET_VIDEOMODE_REQ
+    public static final int IOTYPE_USER_IPCAM_GET_VIDEOMODE_RESP
+    public static final int IOTYPE_USER_IPCAM_FORMATEXTSTORAGE_REQ
+    public static final int IOTYPE_USER_IPCAM_FORMATEXTSTORAGE_RESP
+    public static final int IOTYPE_USER_IPCAM_PTZ_COMMAND
+    public static final int IOTYPE_USER_IPCAM_EVENT_REPORT
+    public static final int IOTYPE_USER_IPCAM_RECEIVE_FIRST_IFRAME
+    public static final int IOTYPE_USER_IPCAM_GET_FLOWINFO_REQ
+    public static final int IOTYPE_USER_IPCAM_GET_FLOWINFO_RESP
+    public static final int IOTYPE_USER_IPCAM_CURRENT_FLOWINFO
+    public static final int IOTYPE_USER_IPCAM_GET_TIMEZONE_REQ
+    public static final int IOTYPE_USER_IPCAM_GET_TIMEZONE_RESP
+    public static final int IOTYPE_USER_IPCAM_SET_TIMEZONE_REQ
+    public static final int IOTYPE_USER_IPCAM_SET_TIMEZONE_RESP
+    public static final int AVIOCTRL_EVENT_ALL
+    public static final int AVIOCTRL_EVENT_MOTIONDECT
+    public static final int AVIOCTRL_EVENT_VIDEOLOST
+    public static final int AVIOCTRL_EVENT_IOALARM
+    public static final int AVIOCTRL_EVENT_MOTIONPASS
+    public static final int AVIOCTRL_EVENT_VIDEORESUME
+    public static final int AVIOCTRL_EVENT_IOALARMPASS
+    public static final int AVIOCTRL_EVENT_EXPT_REBOOT
+    public static final int AVIOCTRL_EVENT_SDFAULT
+    public static final int AVIOCTRL_RECORD_PLAY_PAUSE
+    public static final int AVIOCTRL_RECORD_PLAY_STOP
+    public static final int AVIOCTRL_RECORD_PLAY_STEPFORWARD
+    public static final int AVIOCTRL_RECORD_PLAY_STEPBACKWARD
+    public static final int AVIOCTRL_RECORD_PLAY_FORWARD
+    public static final int AVIOCTRL_RECORD_PLAY_BACKWARD
+    public static final int AVIOCTRL_RECORD_PLAY_SEEKTIME
+    public static final int AVIOCTRL_RECORD_PLAY_END
+    public static final int AVIOCTRL_RECORD_PLAY_START
+    public static final int AVIOCTRL_PTZ_STOP
+    public static final int AVIOCTRL_PTZ_UP
+    public static final int AVIOCTRL_PTZ_DOWN
+    public static final int AVIOCTRL_PTZ_LEFT
+    public static final int AVIOCTRL_PTZ_LEFT_UP
+    public static final int AVIOCTRL_PTZ_LEFT_DOWN
+    public static final int AVIOCTRL_PTZ_RIGHT
+    public static final int AVIOCTRL_PTZ_RIGHT_UP
+    public static final int AVIOCTRL_PTZ_RIGHT_DOWN
+    public static final int AVIOCTRL_PTZ_AUTO
+    public static final int AVIOCTRL_PTZ_SET_POINT
+    public static final int AVIOCTRL_PTZ_CLEAR_POINT
+    public static final int AVIOCTRL_PTZ_GOTO_POINT
+    public static final int AVIOCTRL_PTZ_SET_MODE_START
+    public static final int AVIOCTRL_PTZ_SET_MODE_STOP
+    public static final int AVIOCTRL_PTZ_MODE_RUN
+    public static final int AVIOCTRL_PTZ_MENU_OPEN
+    public static final int AVIOCTRL_PTZ_MENU_EXIT
+    public static final int AVIOCTRL_PTZ_MENU_ENTER
+    public static final int AVIOCTRL_PTZ_FLIP
+    public static final int AVIOCTRL_PTZ_START
+    public static final int AVIOCTRL_LENS_APERTURE_OPEN
+    public static final int AVIOCTRL_LENS_APERTURE_CLOSE
+    public static final int AVIOCTRL_LENS_ZOOM_IN
+    public static final int AVIOCTRL_LENS_ZOOM_OUT
+    public static final int AVIOCTRL_LENS_FOCAL_NEAR
+    public static final int AVIOCTRL_LENS_FOCAL_FAR
+    public static final int AVIOCTRL_AUTO_PAN_SPEED
+    public static final int AVIOCTRL_AUTO_PAN_LIMIT
+    public static final int AVIOCTRL_AUTO_PAN_START
+    public static final int AVIOCTRL_PATTERN_START
+    public static final int AVIOCTRL_PATTERN_STOP
+    public static final int AVIOCTRL_PATTERN_RUN
+    public static final int AVIOCTRL_SET_AUX
+    public static final int AVIOCTRL_CLEAR_AUX
+    public static final int AVIOCTRL_MOTOR_RESET_POSITION
+    public static final int AVIOCTRL_PTZ_MIRROR
+    public static final int AVIOCTRL_QUALITY_UNKNOWN
+    public static final int AVIOCTRL_QUALITY_MAX
+    public static final int AVIOCTRL_QUALITY_HIGH
+    public static final int AVIOCTRL_QUALITY_MIDDLE
+    public static final int AVIOCTRL_QUALITY_LOW
+    public static final int AVIOCTRL_QUALITY_MIN
+    public static final int AVIOTC_WIFIAPMODE_ADHOC
+    public static final int AVIOTC_WIFIAPMODE_MANAGED
+    public static final int AVIOTC_WIFIAPENC_INVALID
+    public static final int AVIOTC_WIFIAPENC_NONE
+    public static final int AVIOTC_WIFIAPENC_WEP
+    public static final int AVIOTC_WIFIAPENC_WPA_TKIP
+    public static final int AVIOTC_WIFIAPENC_WPA_AES
+    public static final int AVIOTC_WIFIAPENC_WPA2_TKIP
+    public static final int AVIOTC_WIFIAPENC_WPA2_AES
+    public static final int AVIOTC_WIFIAPENC_WPA_PSK_TKIP
+    public static final int AVIOTC_WIFIAPENC_WPA_PSK_AES
+    public static final int AVIOTC_WIFIAPENC_WPA2_PSK_TKIP
+    public static final int AVIOTC_WIFIAPENC_WPA2_PSK_AES
+    public static final int AVIOTC_RECORDTYPE_OFF
+    public static final int AVIOTC_RECORDTYPE_FULLTIME
+    public static final int AVIOTC_RECORDTYPE_ALAM
+    public static final int AVIOTC_RECORDTYPE_MANUAL
+    public static final int AVIOCTRL_ENVIRONMENT_INDOOR_50HZ
+    public static final int AVIOCTRL_ENVIRONMENT_INDOOR_60HZ
+    public static final int AVIOCTRL_ENVIRONMENT_OUTDOOR
+    public static final int AVIOCTRL_ENVIRONMENT_NIGHT
+    public static final int AVIOCTRL_VIDEOMODE_NORMAL
+    public static final int AVIOCTRL_VIDEOMODE_FLIP
+    public static final int AVIOCTRL_VIDEOMODE_MIRROR
+    public static final int AVIOCTRL_VIDEOMODE_FLIP_MIRROR
+    7:7:public AVIOCTRLDEFs()
+com.tutk.IOTC.AVIOCTRLDEFs$SAvEvent
+com.tutk.IOTC.AVIOCTRLDEFs$SFrameInfo:
+    short codec_id
+    byte flags
+    byte cam_index
+    byte onlineNum
+    byte[] reserved
+    int reserved2
+    int timestamp
+    206:206:public AVIOCTRLDEFs$SFrameInfo()
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlAVStream:
+    int channel
+    byte[] reserved
+    234:234:public AVIOCTRLDEFs$SMsgAVIoctrlAVStream()
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlCurrentFlowInfo
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlDeviceInfoReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlDeviceInfoResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlEvent
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlEventConfig
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlFormatExtStorageReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlFormatExtStorageResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetAudioOutFormatReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetAudioOutFormatResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetEnvironmentReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetEnvironmentResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetFlowInfoReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetFlowInfoResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetMotionDetectReq:
+    int channel
+    byte[] reserved
+    341:341:public AVIOCTRLDEFs$SMsgAVIoctrlGetMotionDetectReq()
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetMotionDetectResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetRcdDurationReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetRcdDurationResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetRecordReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetRecordResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetStreamCtrlReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetStreamCtrlResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetSupportStreamReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetSupportStreamResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetVideoModeReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetVideoModeResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetWifiReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlGetWifiResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlListEventReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlListEventResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlListWifiApReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlListWifiApResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlPlayRecord
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlPlayRecordResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlPtzCmd:
+    byte control
+    byte speed
+    byte point
+    byte limit
+    byte aux
+    byte channel
+    byte[] reserved
+    255:255:public AVIOCTRLDEFs$SMsgAVIoctrlPtzCmd()
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlReceiveFirstIFrame
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetEnvironmentReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetEnvironmentResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetMotionDetectReq:
+    int channel
+    int sensitivity
+    319:319:public AVIOCTRLDEFs$SMsgAVIoctrlSetMotionDetectReq()
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetMotionDetectResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetPasswdReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetPasswdResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetRcdDurationReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetRcdDurationResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetRecordReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetRecordResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetStreamCtrlReq:
+    int channel
+    byte quality
+    byte[] reserved
+    278:278:public AVIOCTRLDEFs$SMsgAVIoctrlSetStreamCtrlReq()
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetStreamCtrlResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetVideoModeReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetVideoModeResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetWifiReq
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlSetWifiResp
+com.tutk.IOTC.AVIOCTRLDEFs$SMsgAVIoctrlTimeZone
+com.tutk.IOTC.AVIOCTRLDEFs$SStreamDef
+com.tutk.IOTC.AVIOCTRLDEFs$STimeDay
+com.tutk.IOTC.AVIOCTRLDEFs$SWifiAp
+com.tutk.IOTC.IOTCAPIs:
+    public static final int API_ER_ANDROID_NULL
+    public static final int IOTC_ER_NoERROR
+    public static final int IOTC_ER_SERVER_NOT_RESPONSE
+    public static final int IOTC_ER_FAIL_RESOLVE_HOSTNAME
+    public static final int IOTC_ER_ALREADY_INITIALIZED
+    public static final int IOTC_ER_FAIL_CREATE_MUTEX
+    public static final int IOTC_ER_FAIL_CREATE_THREAD
+    public static final int IOTC_ER_FAIL_CREATE_SOCKET
+    public static final int IOTC_ER_FAIL_SOCKET_OPT
+    public static final int IOTC_ER_FAIL_SOCKET_BIND
+    public static final int IOTC_ER_UNLICENSE
+    public static final int IOTC_ER_LOGIN_ALREADY_CALLED
+    public static final int IOTC_ER_NOT_INITIALIZED
+    public static final int IOTC_ER_TIMEOUT
+    public static final int IOTC_ER_INVALID_SID
+    public static final int IOTC_ER_UNKNOWN_DEVICE
+    public static final int IOTC_ER_FAIL_GET_LOCAL_IP
+    public static final int IOTC_ER_LISTEN_ALREADY_CALLED
+    public static final int IOTC_ER_EXCEED_MAX_SESSION
+    public static final int IOTC_ER_CAN_NOT_FIND_DEVICE
+    public static final int IOTC_ER_CONNECT_IS_CALLING
+    public static final int IOTC_ER_SESSION_CLOSE_BY_REMOTE
+    public static final int IOTC_ER_REMOTE_TIMEOUT_DISCONNECT
+    public static final int IOTC_ER_DEVICE_NOT_LISTENING
+    public static final int IOTC_ER_CH_NOT_ON
+    public static final int IOTC_ER_FAIL_CONNECT_SEARCH
+    public static final int IOTC_ER_MASTER_TOO_FEW
+    public static final int IOTC_ER_AES_CERTIFY_FAIL
+    public static final int IOTC_ER_SESSION_NO_FREE_CHANNEL
+    public static final int IOTC_ER_TCP_TRAVEL_FAILED
+    public static final int IOTC_ER_TCP_CONNECT_TO_SERVER_FAILED
+    public static final int IOTC_ER_CLIENT_NOT_SECURE_MODE
+    public static final int IOTC_ER_CLIENT_SECURE_MODE
+    public static final int IOTC_ER_DEVICE_NOT_SECURE_MODE
+    public static final int IOTC_ER_DEVICE_SECURE_MODE
+    public static final int IOTC_ER_INVALID_MODE
+    public static final int IOTC_ER_EXIT_LISTEN
+    public static final int IOTC_ER_NO_PERMISSION
+    public static final int IOTC_ER_NETWORK_UNREACHABLE
+    public static final int IOTC_ER_FAIL_SETUP_RELAY
+    public static final int IOTC_ER_NOT_SUPPORT_RELAY
+    public static final int IOTC_ER_NO_SERVER_LIST
+    public static final int IOTC_ER_DEVICE_MULTI_LOGIN
+    public static final int IOTC_ER_INVALID_ARG
+    20:20:public IOTCAPIs()
+    public static native int IOTC_Get_Login_Info(long[])
+    public static native void IOTC_Get_Version(long[])
+    public static native void IOTC_Set_Max_Session_Number(long)
+    public static native int IOTC_Initialize2(int)
+    public static native int IOTC_Device_Login(java.lang.String,java.lang.String,java.lang.String)
+    public static native int IOTC_Listen(long)
+    public static native int IOTC_Listen2(long,java.lang.String,int)
+    public static native int IOTC_Connect_ByUID2(java.lang.String,java.lang.String,int)
+    public static native void IOTC_Connect_Stop()
+    public static native int IOTC_Session_Check(int,com.tutk.IOTC.St_SInfo)
+    public static native int IOTC_Session_Read(int,byte[],int,int,int)
+    public static native int IOTC_Session_Write(int,byte[],int,int)
+    public static native int IOTC_Session_Channel_ON(int,int)
+    public static native int IOTC_Get_Nat_Type()
+    public static native int IOTC_IsDeviceSecureMode(int)
+    public static native com.tutk.IOTC.st_LanSearchInfo[] IOTC_Lan_Search(int[],int)
+com.tutk.IOTC.Packet:
+    16:16:public Packet()
+    27:34:public static final int byteArrayToInt_Little(byte[])
+    39:39:public static final long byteArrayToLong_Little(byte[],int)
+    44:51:public static final int byteArrayToInt_Big(byte[])
+    55:55:public static final byte[] longToByteArray_Little(long)
+    64:64:public static final byte[] intToByteArray_Big(int)
+    72:72:public static final byte[] shortToByteArray_Big(short)
+com.tutk.IOTC.St_SInfo
+com.tutk.IOTC.st_LanSearchInfo
+com.xqe.method.DelEditText:
+    private android.graphics.drawable.Drawable dLeft
+org.achartengine.ChartFactory
+org.achartengine.GraphicalView:
+    147:151:public double[] toRealPoint(int)
+    234:243:public void addZoomListener(org.achartengine.tools.ZoomListener,boolean,boolean)
+    251:256:public synchronized void removeZoomListener(org.achartengine.tools.ZoomListener)
+    264:265:public void addPanListener(org.achartengine.tools.PanListener)
+    273:274:public void removePanListener(org.achartengine.tools.PanListener)
+    316:321:public void repaint(int,int,int,int)
+    329:337:public android.graphics.Bitmap toBitmap()
+org.achartengine.GraphicalView$2
+org.achartengine.ITouchHandler:
+    public abstract void addZoomListener(org.achartengine.tools.ZoomListener)
+    public abstract void removeZoomListener(org.achartengine.tools.ZoomListener)
+    public abstract void addPanListener(org.achartengine.tools.PanListener)
+    public abstract void removePanListener(org.achartengine.tools.PanListener)
+org.achartengine.TouchHandler:
+    169:172:public void addZoomListener(org.achartengine.tools.ZoomListener)
+    180:183:public void removeZoomListener(org.achartengine.tools.ZoomListener)
+    191:194:public void addPanListener(org.achartengine.tools.PanListener)
+    202:205:public void removePanListener(org.achartengine.tools.PanListener)
+org.achartengine.TouchHandlerOld:
+    105:105:public void addZoomListener(org.achartengine.tools.ZoomListener)
+    113:113:public void removeZoomListener(org.achartengine.tools.ZoomListener)
+    121:124:public void addPanListener(org.achartengine.tools.PanListener)
+    132:135:public void removePanListener(org.achartengine.tools.PanListener)
+org.achartengine.chart.AbstractChart:
+    302:332:protected void drawPath(android.graphics.Canvas,java.util.List,android.graphics.Paint,boolean)
+    404:414:private java.lang.String getFitText(java.lang.String,float,android.graphics.Paint)
+    460:511:protected void drawLabel(android.graphics.Canvas,java.lang.String,org.achartengine.renderer.DefaultRenderer,java.util.List,int,int,float,float,float,float,int,int,int,android.graphics.Paint,boolean,boolean)
+org.achartengine.chart.BarChart
+org.achartengine.chart.BarChart$Type
+org.achartengine.chart.BubbleChart
+org.achartengine.chart.CombinedXYChart
+org.achartengine.chart.CubicLineChart
+org.achartengine.chart.DialChart
+org.achartengine.chart.DoughnutChart
+org.achartengine.chart.LineChart
+org.achartengine.chart.LineChart$1
+org.achartengine.chart.PieChart
+org.achartengine.chart.PieMapper
+org.achartengine.chart.PieSegment
+org.achartengine.chart.PointStyle:
+    62:70:public static org.achartengine.chart.PointStyle getPointStyleForName(java.lang.String)
+    79:87:public static int getIndexForName(java.lang.String)
+org.achartengine.chart.RangeBarChart
+org.achartengine.chart.RangeStackedBarChart
+org.achartengine.chart.RoundChart:
+    protected static final int SHAPE_WIDTH
+    protected org.achartengine.model.CategorySeries mDataset
+    protected static final int NO_VALUE
+    49:52:public RoundChart(org.achartengine.model.CategorySeries,org.achartengine.renderer.DefaultRenderer)
+    64:71:public void drawTitle(android.graphics.Canvas,int,int,int,android.graphics.Paint)
+org.achartengine.chart.ScatterChart:
+    public static final java.lang.String TYPE
+    private static final float SIZE
+    private static final int SHAPE_WIDTH
+    43:44:ScatterChart()
+    53:55:public ScatterChart(org.achartengine.model.XYMultipleSeriesDataset,org.achartengine.renderer.XYMultipleSeriesRenderer)
+    60:62:protected void setDatasetRenderer(org.achartengine.model.XYMultipleSeriesDataset,org.achartengine.renderer.XYMultipleSeriesRenderer)
+    272:272:public java.lang.String getChartType()
+org.achartengine.chart.TimeChart
+org.achartengine.chart.XYChart:
+    84:87:public XYChart(org.achartengine.model.XYMultipleSeriesDataset,org.achartengine.renderer.XYMultipleSeriesRenderer)
+    92:94:protected void setDatasetRenderer(org.achartengine.model.XYMultipleSeriesDataset,org.achartengine.renderer.XYMultipleSeriesRenderer)
+    470:470:protected android.graphics.Rect getScreenR()
+    474:475:protected void setScreenR(android.graphics.Rect)
+    805:806:public void setCalcRange(double[],int)
+    809:809:public double[] toRealPoint(float,float)
+    813:813:public double[] toScreenPoint(double[])
+    847:864:public double[] toScreenPoint(double[],int)
+    943:943:public double getDefaultMinimum()
+    public abstract java.lang.String getChartType()
+org.achartengine.model.CategorySeries
+org.achartengine.model.MultipleCategorySeries
+org.achartengine.model.Point:
+    46:47:public void setX(float)
+    50:51:public void setY(float)
+org.achartengine.model.RangeCategorySeries
+org.achartengine.model.SeriesSelection:
+    35:35:public int getSeriesIndex()
+    39:39:public int getPointIndex()
+    43:43:public double getXValue()
+    47:47:public double getValue()
+org.achartengine.model.TimeSeries
+org.achartengine.model.XYMultipleSeriesDataset:
+    25:27:public XYMultipleSeriesDataset()
+    35:36:public synchronized void addSeries(org.achartengine.model.XYSeries)
+    45:46:public synchronized void addSeries(int,org.achartengine.model.XYSeries)
+    54:55:public synchronized void addAllSeries(java.util.List)
+    63:64:public synchronized void removeSeries(int)
+    72:73:public synchronized void removeSeries(org.achartengine.model.XYSeries)
+    79:80:public synchronized void clear()
+org.achartengine.model.XYSeries:
+    private static final double PADDING
+    60:61:public XYSeries(java.lang.String)
+    69:73:public XYSeries(java.lang.String,int)
+    83:93:private void initRange()
+    102:106:private void updateRange(double,double)
+    123:124:public void setTitle(java.lang.String)
+    133:140:public synchronized void add(double,double)
+    150:157:public synchronized void add(int,double,double)
+    160:160:protected double getPadding()
+    169:175:public synchronized void remove(int)
+    181:184:public synchronized void clear()
+    193:193:public synchronized double getX(int)
+    214:216:public void addAnnotation(java.lang.String,double,double)
+    224:226:public void removeAnnotation(int)
+org.achartengine.model.XYValueSeries
+org.achartengine.renderer.DefaultRenderer:
+    public static final int NO_COLOR
+    public static final int BACKGROUND_COLOR
+    public static final int TEXT_COLOR
+    private boolean mDisplayValues
+    126:127:public void setChartTitle(java.lang.String)
+    144:145:public void setChartTitleTextSize(float)
+    153:154:public void addSeriesRenderer(org.achartengine.renderer.SimpleSeriesRenderer)
+    163:164:public void addSeriesRenderer(int,org.achartengine.renderer.SimpleSeriesRenderer)
+    172:173:public void removeSeriesRenderer(org.achartengine.renderer.SimpleSeriesRenderer)
+    179:180:public void removeAllRenderers()
+    207:207:public org.achartengine.renderer.SimpleSeriesRenderer[] getSeriesRenderers()
+    225:226:public void setBackgroundColor(int)
+    243:244:public void setApplyBackgroundColor(boolean)
+    261:262:public void setAxesColor(int)
+    279:280:public void setLabelsColor(int)
+    297:298:public void setLabelsTextSize(float)
+    315:316:public void setShowAxes(boolean)
+    333:334:public void setShowLabels(boolean)
+    360:361:public void setShowGridX(boolean)
+    369:370:public void setShowGridY(boolean)
+    378:380:public void setShowGrid(boolean)
+    397:398:public void setShowCustomTextGrid(boolean)
+    415:416:public void setShowLegend(boolean)
+    433:434:public void setFitLegend(boolean)
+    478:479:public void setLegendTextSize(float)
+    488:490:public void setTextTypeface(java.lang.String,int)
+    498:499:public void setTextTypeface(android.graphics.Typeface)
+    516:517:public void setAntialiasing(boolean)
+    562:563:public void setZoomEnabled(boolean)
+    580:581:public void setZoomButtonsVisible(boolean)
+    598:599:public void setExternalZoomEnabled(boolean)
+    625:626:public void setPanEnabled(boolean)
+    634:635:public void setZoomRate(float)
+    652:653:public void setClickEnabled(boolean)
+    670:671:public void setSelectableBuffer(int)
+    688:689:public void setLegendHeight(int)
+    708:709:public void setMargins(int[])
+    727:728:public void setInScroll(boolean)
+    738:738:public float getStartAngle()
+    749:750:public void setStartAngle(float)
+    758:758:public boolean isDisplayValues()
+    767:768:public void setDisplayValues(boolean)
+org.achartengine.renderer.DialRenderer
+org.achartengine.renderer.DialRenderer$Type
+org.achartengine.renderer.SimpleSeriesRenderer:
+    private double mGradientStartValue
+    private int mGradientStartColor
+    private double mGradientStopValue
+    private int mGradientStopColor
+    private boolean mHighlighted
+    76:77:public void setColor(int)
+    94:95:public void setDisplayChartValues(boolean)
+    112:113:public void setDisplayChartValuesDistance(int)
+    130:131:public void setChartValuesTextSize(float)
+    148:149:public void setChartValuesTextAlign(android.graphics.Paint$Align)
+    167:168:public void setChartValuesSpacing(float)
+    185:186:public void setStroke(org.achartengine.renderer.BasicStroke)
+    194:194:public boolean isGradientEnabled()
+    203:204:public void setGradientEnabled(boolean)
+    212:212:public double getGradientStartValue()
+    221:221:public int getGradientStartColor()
+    231:233:public void setGradientStart(double,int)
+    241:241:public double getGradientStopValue()
+    250:250:public int getGradientStopColor()
+    260:262:public void setGradientStop(double,int)
+    279:280:public void setShowLegendItem(boolean)
+    288:288:public boolean isHighlighted()
+    297:298:public void setHighlighted(boolean)
+    315:316:public void setDisplayBoundingPoints(boolean)
+    333:334:public void setChartValuesFormat(java.text.NumberFormat)
+org.achartengine.renderer.XYMultipleSeriesRenderer:
+    188:189:public void setOrientation(org.achartengine.renderer.XYMultipleSeriesRenderer$Orientation)
+    206:207:public void setXTitle(java.lang.String)
+    234:235:public void setYTitle(java.lang.String)
+    244:245:public void setYTitle(java.lang.String,int)
+    262:263:public void setAxisTitleTextSize(float)
+    271:271:public double getXAxisMin()
+    280:281:public void setXAxisMin(double)
+    289:289:public boolean isMinXSet()
+    298:298:public double getXAxisMax()
+    307:308:public void setXAxisMax(double)
+    316:316:public boolean isMaxXSet()
+    325:325:public double getYAxisMin()
+    334:335:public void setYAxisMin(double)
+    343:343:public boolean isMinYSet()
+    352:352:public double getYAxisMax()
+    361:362:public void setYAxisMax(double)
+    370:370:public boolean isMaxYSet()
+    520:521:public void setXLabels(int)
+    531:532:public void addTextLabel(double,java.lang.String)
+    541:542:public synchronized void addXTextLabel(double,java.lang.String)
+    550:551:public synchronized void removeXTextLabel(double)
+    578:579:public void clearTextLabels()
+    585:586:public synchronized void clearXTextLabels()
+    594:594:public boolean isXRoundedLabels()
+    603:604:public void setXRoundedLabels(boolean)
+    613:614:public void addYTextLabel(double,java.lang.String)
+    622:623:public void removeYTextLabel(double)
+    633:634:public synchronized void addYTextLabel(double,java.lang.String,int)
+    643:644:public synchronized void removeYTextLabel(double,int)
+    653:653:public java.lang.String getYTextLabel(java.lang.Double)
+    673:673:public java.lang.Double[] getYTextLabelLocations()
+    690:691:public void clearYTextLabels()
+    699:700:public synchronized void clearYTextLabels(int)
+    717:718:public void setYLabels(int)
+    727:731:public void setDisplayChartValues(boolean)
+    740:744:public void setChartValuesTextSize(float)
+    752:752:public float getBarWidth()
+    761:762:public void setBarWidth(float)
+    798:800:public void setPanEnabled(boolean,boolean)
+    808:809:public void setPanEnabled(boolean)
+    845:847:public void setZoomEnabled(boolean,boolean)
+    856:856:public double getBarsSpacing()
+    865:865:public double getBarSpacing()
+    876:877:public void setBarSpacing(double)
+    912:913:public void setGridColor(int)
+    932:933:public void setPanLimits(double[])
+    952:953:public void setZoomLimits(double[])
+    970:971:public void setXLabelsAngle(float)
+    988:989:public void setYLabelsAngle(float)
+    997:997:public float getPointSize()
+    1006:1007:public void setPointSize(float)
+    1010:1011:public void setRange(double[])
+    1047:1047:public double[] getInitialRange()
+    1067:1068:public void setInitialRange(double[])
+    1078:1079:public void setInitialRange(double[],int)
+    1105:1106:public void setXLabelsColor(int)
+    1115:1116:public void setYLabelsColor(int,int)
+    1133:1134:public void setXLabelsAlign(android.graphics.Paint$Align)
+    1147:1148:public void setYLabelsAlign(android.graphics.Paint$Align)
+    1155:1156:public void setYAxisAlign(android.graphics.Paint$Align,int)
+    1164:1165:public void setYLabelsAlign(android.graphics.Paint$Align,int)
+    1182:1183:public void setXLabelsPadding(float)
+    1200:1201:public void setYLabelsVerticalPadding(float)
+    1218:1219:public void setYLabelsPadding(float)
+    1236:1237:public void setLabelFormat(java.text.NumberFormat)
+    1261:1262:public void setZoomInLimitX(double)
+    1286:1287:public void setZoomInLimitY(double)
+org.achartengine.renderer.XYSeriesRenderer:
+    123:123:public boolean isFillBelowLine()
+    136:142:public void setFillBelowLine(boolean)
+    150:150:public org.achartengine.renderer.XYSeriesRenderer$FillOutsideLine[] getFillOutsideLine()
+    161:162:public void addFillOutsideLine(org.achartengine.renderer.XYSeriesRenderer$FillOutsideLine)
+    179:180:public void setFillPoints(boolean)
+    191:194:public void setFillBelowLineColor(int)
+    211:212:public void setPointStyle(org.achartengine.chart.PointStyle)
+    229:230:public void setPointStrokeWidth(float)
+    238:238:public float getLineWidth()
+    247:248:public void setLineWidth(float)
+org.achartengine.renderer.XYSeriesRenderer$FillOutsideLine
+org.achartengine.renderer.XYSeriesRenderer$FillOutsideLine$Type
+org.achartengine.tools.Pan:
+    151:152:public synchronized void addPanListener(org.achartengine.tools.PanListener)
+    160:161:public synchronized void removePanListener(org.achartengine.tools.PanListener)
+org.achartengine.tools.Zoom:
+    public static final int ZOOM_AXIS_XY
+    public static final int ZOOM_AXIS_X
+    public static final int ZOOM_AXIS_Y
+    182:183:public synchronized void addZoomListener(org.achartengine.tools.ZoomListener)
+    191:192:public synchronized void removeZoomListener(org.achartengine.tools.ZoomListener)
+org.achartengine.tools.ZoomEvent:
+    45:45:public boolean isZoomIn()
+    54:54:public float getZoomRate()
+org.achartengine.util.IndexXYMap:
+    32:33:public IndexXYMap()
+    42:44:public java.lang.Object put(int,java.lang.Object,java.lang.Object)
+    60:60:public double getMaxXDifference()
+    97:98:public org.achartengine.util.XYEntry getByIndex(int)
+    107:108:public org.achartengine.util.XYEntry removeByIndex(int)
+org.achartengine.util.MathHelper:
+    public static final double NULL_VALUE
+    35:37:private MathHelper()
+    46:57:public static double[] minmax(java.util.List)
+org.achartengine.util.XYEntry
+org.simple.ripple.RippleLayout:
+    private static final int DEFAULT_RIPPLE_COUNT
+    private static final int DEFAULT_DURATION_TIME
+    private static final float DEFAULT_SCALE
+    private static final int DEFAULT_STROKE_WIDTH
+    private static final int DEFAULT_RADIUS
+org.simple.ripplelayout.R:
+    9:9:public R()
+org.simple.ripplelayout.R$attr
+org.simple.ripplelayout.R$drawable
+org.simple.ripplelayout.R$string
+org.simple.ripplelayout.R$styleable:
+    25:25:public R$styleable()

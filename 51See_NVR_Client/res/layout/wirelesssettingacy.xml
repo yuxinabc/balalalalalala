@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical"
+    android:background="@color/qianhui">
+    
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/header_bar_color">
+        <LinearLayout
+            android:id="@+id/backLayout" 
+            android:layout_width="60dp"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical"
+        	android:orientation="horizontal"
+        	android:layout_alignParentLeft="true"
+        	android:background="@color/header_bar_color">
+            <ImageView 
+                android:layout_width="30dp"
+            	android:layout_height="30dp"
+            	android:layout_marginLeft="10dp"
+            	android:layout_gravity="center_vertical"
+                android:background="@drawable/back_img_shap"/>
+        	
+        </LinearLayout>
+        <TextView 
+            android:layout_width="wrap_content"
+           	android:layout_height="wrap_content"
+          	android:textColor="@color/white"
+           	android:textSize="18sp"
+           	android:layout_centerInParent="true"
+           	android:text="@string/wirelessNetworkParameters"/>
+        
+        <TextView 
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:id="@+id/saveTx"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_save"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:textStyle="bold|italic"/>
+    </RelativeLayout>
+    
+    <ImageView 
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/progress_buffering"/>
+    
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+
+		<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+            
+	       <RelativeLayout 
+				android:layout_width="fill_parent"
+	            android:layout_height="50dp"
+	            android:background="@color/white">
+	            <TextView
+					android:id="@+id/textViewdhcpwifi"
+					android:layout_alignParentLeft="true"
+					android:layout_centerVertical="true"
+					android:layout_marginLeft="10dp"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:textSize="15sp"
+                	android:textColor="@color/text_color"
+	                android:text="@string/wifiClientMode" 
+	                android:textAppearance="?android:attr/textAppearanceMedium"/>
+	
+				<com.my51c.see51.widget.NewSwitch
+				    android:layout_alignParentRight="true"
+	                android:id="@+id/wifiSwitch"
+	                android:background="@drawable/phone_my_setting_switch_selected_new"
+        			android:textColor="@android:color/white"
+        			android:layout_centerVertical="true"
+        			android:textSize="14sp"
+        			android:paddingLeft="5dp"
+        			android:paddingRight="5dp"
+        			android:layout_width="58dp"
+        			android:layout_height="25dp"
+        			android:layout_marginLeft="10dp"
+        			android:layout_marginRight="10dp"/>
+			</RelativeLayout>
+			<LinearLayout 
+			    android:id="@+id/wifiDetailLayout"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:orientation="vertical">
+			    <RelativeLayout
+	           android:layout_marginTop="1dp"
+                    android:id="@+id/tableRow3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:background="@color/white">
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_centerVertical="true"
+                		android:layout_alignParentLeft="true"
+                		android:textSize="15sp"
+                		android:textColor="@color/text_color"
+                        android:text="@string/encryption" 
+                        android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+                    <ImageView 
+		        		    android:id="@+id/arrow"
+		        		    android:layout_width="50dp"
+		        		    android:layout_height="fill_parent"
+		        		    android:background="@drawable/arrow"
+		        		    android:layout_alignParentRight="true"/>
+		        		<TextView 
+		        		    android:id="@+id/wpaTx"
+		        		    android:layout_width="wrap_content"
+		        		    android:layout_height="wrap_content"
+		        		    android:layout_centerVertical="true"
+		        		    android:layout_toLeftOf="@id/arrow"
+		        		    android:textSize="15sp"
+		        		    android:textColor="@color/qianhei"
+		        		    android:text="10s"/>
+                </RelativeLayout>
+
+			<RelativeLayout
+			    android:layout_marginTop="1dp"
+				android:id="@+id/tableRow2"
+            	android:layout_width="wrap_content"
+            	android:layout_height="50dp" 
+            	android:background="@color/white">
+            	<TextView
+					android:id="@+id/textView2"
+                	android:layout_width="wrap_content"
+                	android:layout_height="wrap_content"
+                	android:layout_marginLeft="10dp"
+                	android:layout_centerVertical="true"
+                	android:layout_alignParentLeft="true"
+                	android:text="@string/ssid" 
+                	android:textSize="15sp"
+                	android:textColor="@color/text_color"
+                	android:textAppearance="?android:attr/textAppearanceMedium"/>
+            
+            	
+				
+            	<EditText
+                	android:id="@+id/ssidEditText"
+                	android:layout_width="wrap_content"
+                	android:layout_height="50dp"
+                	android:background="@drawable/edittext_shap"
+                	android:layout_centerVertical="true"
+                	android:layout_alignParentRight="true"
+                	android:gravity="center_vertical|right"
+                	android:paddingRight="20dp"
+                	android:inputType="text" 
+                	android:textSize="15sp"
+                	android:textColor="@color/qianhei"
+                	android:ems="8" 
+                	android:textAppearance="?android:attr/textAppearanceMedium"/>
+            	<ImageButton
+			    	android:id="@+id/btnSelectWifi"
+			   	 	android:layout_width="30dp"
+			    	android:layout_height="30dp"
+			    	android:layout_centerVertical="true"
+			    	android:layout_toLeftOf="@id/ssidEditText"
+			    	android:background="@drawable/wifi_button"
+			    	android:text="@string/select" />
+                	
+			</RelativeLayout>
+
+                
+                <RelativeLayout
+                    android:layout_marginTop="1dp"
+                    android:id="@+id/tableRow4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:background="@color/white">
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_centerVertical="true"
+                		android:layout_alignParentLeft="true"
+                		android:textSize="15sp"
+                		android:textColor="@color/text_color"
+                        android:text="@string/password" 
+                        android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+                    <EditText
+                        android:id="@+id/passwordEditText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                		android:background="@drawable/edittext_shap"
+                		android:textSize="15sp"
+                		android:textColor="@color/qianhei"
+                        android:ems="8" 
+                        android:layout_centerVertical="true"
+                		android:layout_alignParentRight="true"
+                        android:gravity="center_vertical|right"
+                        android:paddingRight="20dp" 
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                         />
+                </RelativeLayout>
+			</LinearLayout>
+			
+	       
+
+                <include
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    layout="@layout/ip_setting_module_layout" />
+            
+			
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

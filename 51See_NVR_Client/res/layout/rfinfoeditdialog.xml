@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right" >
+        
+       <TableRow
+          android:id="@+id/tableRow1"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content" 
+          android:gravity="center">
+          <TextView
+              android:id="@+id/textViewRFId"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center|right"
+              android:textAppearance="?android:attr/textAppearanceMedium"
+              android:text="@string/rfid" />
+          
+         <TextView
+              android:id="@+id/textViewRFidVidew"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center|left"
+              android:textAppearance="?android:attr/textAppearanceMedium"
+              android:text="@string/rfid" />   
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:gravity="center">
+            <TextView
+                android:id="@+id/rfname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|right"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/rfname" />
+
+            <EditText
+                android:id="@+id/rfnameEditText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10" 
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_gravity="center|left"/>
+
+        </TableRow>
+        
+        <TableRow
+	        android:id="@+id/tableRow3"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" 
+	        android:layout_gravity="center"
+	        android:gravity="center">
+			<TextView
+                android:id="@+id/textViewrfstatus "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|right"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/rfstatus" />
+	        <CheckBox
+	            android:id="@+id/rfstatus"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:checked="false"
+	            android:layout_gravity="center|left"
+	            />
+    	</TableRow>
+    	
+    </TableLayout>
+    
+    <TableRow
+          android:id="@+id/tableRow4"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" >
+
+          <Button
+              android:id="@+id/buttonCancel"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_weight="0.5"
+              android:text="@android:string/no" />
+
+          <Button
+              android:id="@+id/buttonOK"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_weight="0.5"
+              android:text="@android:string/yes" />
+
+      </TableRow>
+    
+
+</LinearLayout>

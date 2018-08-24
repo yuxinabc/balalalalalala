@@ -1,0 +1,4 @@
+include ':ripplelayout-master'
+include ':slidingmenu_library'
+include ':51See_NVR_Client'
+include ':InitActivity'

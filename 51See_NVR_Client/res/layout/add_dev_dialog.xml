@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:alpha="0.9"
+    android:background="@drawable/shap_dialog" >
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/header_bar_color">
+        <ImageView 
+            android:id="@+id/addImg"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+             android:layout_marginLeft="20dp"
+            android:src="@drawable/adddevice"/>
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/addImg"
+            android:text="@string/guideTipTitle"
+            android:textColor="@color/white"
+            android:textSize="16sp"/>
+    </RelativeLayout>
+    
+    <TextView 
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/progress_buffering"/>
+    <LinearLayout 
+        android:id="@+id/addbyvoice"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/shap_menu_linearlayout"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:visibility="visible"
+        android:layout_marginLeft="20dp">
+        <ImageView 
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/volume_add"/>
+        <TextView 
+        	android:layout_width="fill_parent"
+        	android:layout_height="50dp"
+        	android:gravity="center_vertical|left"
+        	android:layout_marginLeft="10dp"
+        	android:textSize="16sp"
+        	android:textColor="@color/text_color"
+        	android:text="@string/guideSmartConnection"/>
+    </LinearLayout>
+    
+    
+    <TextView 
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/progress_buffering"/>
+    <LinearLayout 
+        android:id="@+id/add_install"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/shap_menu_linearlayout"
+        android:layout_marginLeft="20dp">
+        <ImageView 
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/install"/>
+        <TextView 
+        	android:layout_width="fill_parent"
+        	android:layout_height="50dp"
+        	android:gravity="center_vertical|left"
+        	android:layout_marginLeft="10dp"
+        	android:textColor="@color/text_color"
+        	android:textSize="16sp"
+        	android:text="@string/guideComplexInstall"/>
+    </LinearLayout>
+    
+    <TextView 
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:visibility="visible"
+        android:background="@drawable/progress_buffering"/>
+    
+     <LinearLayout 
+        android:id="@+id/addbyid"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@drawable/shap_menu_linearlayout"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="20dp">
+        <ImageView 
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/id_add"/>
+        <TextView 
+        	android:layout_width="fill_parent"
+        	android:layout_height="50dp"
+        	android:gravity="center_vertical|left"
+        	android:layout_marginLeft="10dp"
+        	android:textSize="16sp"
+        	android:textColor="@color/text_color"
+        	android:text="@string/guideSimleInstall"/>
+    </LinearLayout>
+    
+    
+    <TextView 
+        android:visibility="visible"
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/progress_buffering"/>
+    
+    <LinearLayout 
+        android:id="@+id/cancel"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@drawable/shap_menu_linearlayout"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="20dp">
+        
+        <TextView 
+        	android:layout_width="fill_parent"
+        	android:layout_height="50dp"
+        	android:gravity="center_vertical|left"
+        	android:layout_marginLeft="40dp"
+        	android:textSize="16sp"
+        	android:textColor="@color/text_color"
+        	android:text="@string/Cancel"/>
+    </LinearLayout>
+    
+   
+    
+
+</LinearLayout>

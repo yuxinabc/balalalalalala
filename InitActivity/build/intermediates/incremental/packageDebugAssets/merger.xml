@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\eclipseW1\InitActivity\assets"/><source path="E:\eclipseW1\InitActivity\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\eclipseW1\InitActivity\src\debug\assets"/></dataSet></merger>
